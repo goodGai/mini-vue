@@ -6,5 +6,5 @@ const obj = reactive({
 })
 
 obj.age++
-console.log('obj', obj)
+// console.log('obj', obj)
 
